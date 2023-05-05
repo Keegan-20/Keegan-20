@@ -9,6 +9,10 @@
 
 <p align="center"> <a href="https://twitter.com/keegan_webdev" target="blank"><img src="https://img.shields.io/twitter/follow/keegan_webdev?logo=twitter&style=for-the-badge" alt="keegan_webdev" /></a> </p>
 
+
+## 🚀 *About me*
+**As a frontend developer, I'm constantly translating creative visions into functional realities.I would like to collabrate with fellow developers and working on different Web based Projects.**
+
 - 🌱 I’m currently learning **React js**
 - ⛏️ Building Projects in Public
 - 👯 I’m looking to collaborate on **Open Source development**
@@ -38,4 +42,7 @@
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Keegan-20&background=00000000&hide_border=true&stroke=F6C819&ring=D61355FF&fire=ff960d&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=D61355FF&sideLabels=D61355FF&dates=D61355FF" />
   
 </div> 																			
-
+<h6 align="center">
+Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it.
+</h6>
+  
