@@ -2,11 +2,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=D61355&center=true&width=800&lines=Hey👋 %3CDevelopers%2F%3E+I+am+Keegan+Colaco;Frontend+Developer👨‍💻;An a Curious+Learner😉" alt="Typing SVG" /></a>
 </h1>
 
+<div align="center">
+<img src="https://github.com/Keegan-20/Keegan-20/blob/main/developer.gif" alt="logo" height="310" width="1100">
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keegan-20&label=Profile%20views&color=0e75b6&style=flat" alt="keegan-20" /> </p>
-
-<p align="left"> <a href="https://twitter.com/keegan_webdev" target="blank"><img src="https://img.shields.io/twitter/follow/keegan_webdev?logo=twitter&style=for-the-badge" alt="keegan_webdev" /></a> </p>
+<p align="center"> <a href="https://twitter.com/keegan_webdev" target="blank"><img src="https://img.shields.io/twitter/follow/keegan_webdev?logo=twitter&style=for-the-badge" alt="keegan_webdev" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
@@ -16,9 +17,10 @@
 
 - ⚡ Fun fact **survives on coffee and Love dogs.**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://twitter.com/keegan_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keegan_webdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keegan-colaco-761363169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keegan-colaco-761363169" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keegan-20&" alt="keegan-20" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keegan-20&label=Profile%20views&color=0e75b6&style=flat" alt="keegan-20" /> </p>
 
 
