@@ -1,7 +1,8 @@
-### Hi there 👋
-<h3> I'm Keegan </h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=D61355&center=true&width=800&lines=Hey👋 %3CDevelopers%2F%3E+I+am+Keegan+Colaco;Frontend+Developer👨‍💻;An a Curious+Learner😉" alt="Typing SVG" /></a>
+</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keegan-20&label=Profile%20views&color=0e75b6&style=flat" alt="keegan-20" /> </p>
 
