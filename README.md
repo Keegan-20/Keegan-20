@@ -10,29 +10,32 @@
 <p align="center"> <a href="https://twitter.com/keegan_webdev" target="blank"><img src="https://img.shields.io/twitter/follow/keegan_webdev?logo=twitter&style=for-the-badge" alt="keegan_webdev" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
-
+- ⛏️ Building Projects in Public
 - 👯 I’m looking to collaborate on **Open Source development**
 
-- 📫 How to reach me **keegancolaco20@gmail.com**
+- 📫 You can reach out to me at: **keegancolaco20@gmail.com**
 
-- ⚡ Fun fact **survives on coffee and Love dogs.**
+- ⚡ Fun fact **Survives on coffee and Love dogs.**
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<p align="left">
-<a href="https://twitter.com/keegan_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keegan_webdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keegan-colaco-761363169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keegan-colaco-761363169" height="30" width="40" /></a>
-</p>
+
+[<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/keegan_webdev)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/keegan-colaco-761363169)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]("https://instagram.com/the_animator_20)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:keegancolaco20@gmail.com)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+### 🏆 GitHub Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keegan-20&show_icons=true&locale=en&layout=compact" alt="keegan-20" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keegan-20&show_icons=true&locale=en" alt="keegan-20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keegan-20&" alt="keegan-20" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keegan-20&label=Profile%20views&color=0e75b6&style=flat" alt="keegan-20" /> </p>
-
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Keegan-20&hide=stars&custom_title=Keegan's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=D61355FF&text_color=FFFF&icon_color=D61355FF&cache_seconds=300"/>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Keegan-20&background=00000000&hide_border=true&stroke=F6C819&ring=D61355FF&fire=ff960d&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=D61355FF&sideLabels=D61355FF&dates=D61355FF" />
+  
+</div> 																			
 
