@@ -11,8 +11,7 @@
 
 
 ## 🚀 *About me*
-**As a frontend developer, I'm constantly translating creative visions into functional realities.I would like to collabrate with fellow developers and working on different Web based Projects.**
-
+**As a frontend developer, I'm constantly translating creative visions into functional realities.I'm continuously Building Projects,learning new coding skills and sharing my journey on twitter.I'd like to collaborate with other developers and work on various web-based projects.**
 - 🌱 I’m currently learning **React js**
 - ⛏️ Building Projects in Public
 - 👯 I’m looking to collaborate on **Open Source development**
