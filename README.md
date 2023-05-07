@@ -36,8 +36,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=keegan-20&show_icons=true&theme=dark&title_color=b63587&hide_border=true&locale=en&layout=compact" alt="keegan-20" /></p>
 
 </div>
-## 🏆GitHub Status
 
+### 🏆Github  Status
 <div align="center">
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Keegan-20&hide=stars&custom_title=Keegan's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=D61355FF&text_color=FFFF&icon_color=D61355FF&cache_seconds=300"/>
