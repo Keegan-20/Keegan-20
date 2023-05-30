@@ -40,7 +40,7 @@
 ### 🏆Github  Status
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Keegan-20&hide=stars&custom_title=Keegan's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=D61355FF&text_color=FFFF&icon_color=D61355FF&cache_seconds=0"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Keegan-20&hide=stars&custom_title=Keegan's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=D61355FF&text_color=FFFF&icon_color=D61355FF&cache_seconds=300"/>
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Keegan-20&background=00000000&hide_border=true&stroke=F6C819&ring=D61355FF&fire=ff960d&currStreakNum=FFFF&sideNums=FFFF&currStreakLabel=D61355FF&sideLabels=D61355FF&dates=D61355FF" />
   <div align="right">
 	<img src="https://komarev.com/ghpvc/?username=Keegan-20&style=flat-square&color=red">																																																																																
