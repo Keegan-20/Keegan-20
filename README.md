@@ -43,7 +43,7 @@
 ### 🏆Github  Status
 <div align="center">
   <span>
- <a href="https://www.github.com/Keegan-20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Keegan-20&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=red&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="https://www.github.com/Keegan-20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Keegan-20&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=e25822&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </span>
   <div align="right">
 	<img src="https://komarev.com/ghpvc/?username=Keegan-20&style=flat-square&color=red">																																																	
