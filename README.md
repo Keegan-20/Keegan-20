@@ -1,9 +1,21 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5F75B&width=435&lines=Hey%F0%9F%91%8B+Folks%2C+I'm+Keegan;A+Frontend+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;An+a+Curious+Learner%F0%9F%98%89" alt="Typing SVG" /></a>
-</h1>
-
 <div align="center">
-<img src="https://github.com/Keegan-20/Keegan-20/blob/main/developer.gif" alt="logo" height="310" width="1100">
+
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5F75B&width=435&lines=Hey%F0%9F%91%8B+Folks%2C+I'm+Keegan;A+Frontend+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Curious+Learner+%F0%9F%98%89"
+        alt="Typing SVG"
+      />
+    </a>
+  </h1>
+
+  <img
+    src="https://github.com/Keegan-20/Keegan-20/blob/main/developer.gif"
+    alt="developer gif"
+    height="310"
+    width="1100"
+  />
+
 </div>
 
 
