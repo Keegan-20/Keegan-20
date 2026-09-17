@@ -24,7 +24,7 @@
 
 ## 🚀 *About me*
 **As a frontend developer, I'm constantly translating creative visions into functional realities.I'm continuously Building Projects,learning new coding skills and sharing my journey on twitter.I'd like to collaborate with other developers and work on various web-based projects.**
-- 🌱 I’m currently working on **React js**
+- 🌱 I’m currently working on **Scalable,Performance focused WebApps**
 - ⛏️ Building Projects in Public
 
 - 📫 You can reach out to me at: **keegancolaco20@gmail.com**
